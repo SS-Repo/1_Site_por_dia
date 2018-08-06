@@ -15,14 +15,14 @@
 Desenvolvedor Web 
 Tecnologias que possuo maior Familiaridade:
 
-C#
-MVC
-Bootstrap
-HTML
-CSS
-Javascript
-Jquery
-Ajax 
+C#,
+MVC,
+Bootstrap,
+HTML,
+CSS,
+Javascript,
+Jquery,
+Ajax,
 Json
 
 Contatos:Sergio.Desenvolvedor.Web@gmail.com
