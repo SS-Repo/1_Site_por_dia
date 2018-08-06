@@ -1,8 +1,9 @@
 # 30_dias_30sites
 
-# Estou fazendo um site por dia inspirado por Jennifer Dewalt
-# Complementando meus estudos com Javascript
-# link https://jenniferdewalt.com/index.html
+Estou fazendo um site por dia inspirado por Jennifer Dewalt,
+complementando meus estudos com Javascript##
+
+link https://jenniferdewalt.com/index.html
 
 1-Relogio
 
@@ -10,9 +11,9 @@
 
 3-Maps Here
 
-##Sergio Silveira##
+# Sergio Silveira
 
-Desenvolvedor Web 
+# Desenvolvedor Web 
 Tecnologias que possuo maior Familiaridade:
 
 C#,
