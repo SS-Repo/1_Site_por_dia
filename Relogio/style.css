@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+#texto{
+	font-size: 65px;
+	color:#80aaff;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	margin-top: 150px;
+}
+#tempo{
+	margin-top:100px;
+    margin-left:420px;
+}
+body{
+	background-color: #444040;
+}
+
+	
+

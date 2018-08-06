@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body onload="startTime()">
+	<img id="tempo" src="https://www.tempo.com/wimages/fotofd5cb307ede05e87c87d9046ca6fdf12.png">
+	<div id="texto"></div>
+</body>
+	<script type="text/javascript">
+		function startTime(){
+		var data = new Date();
+		var h = data.getHours();
+		var m = data.getMinutes();
+		var s = data.getSeconds();
+
+		m = checkTime(m);
+		s = checkTime(s);
+
+		document.getElementById('texto').innerHTML = h + ":" + m + ":" + s;
+		var t = setTimeout('startTime()',500); 
+		}
+
+		function checkTime(i){
+			if(i < 10){
+				i = "0" + i;
+			}
+			return i;
+		}
+	</script>
+</html>
