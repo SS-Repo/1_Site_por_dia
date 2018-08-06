@@ -3,7 +3,6 @@
 <html>
 <head>
 	<title>Integrando Apis</title>
-
 	<meta name="viewport" content="initial-scale=1.0, width=device-width" />
 	<script src="http://js.api.here.com/v3/3.0/mapsjs-core.js"
 	type="text/javascript" charset="utf-8"></script>
@@ -13,7 +12,6 @@
 	type="text/javascript" charset="utf-8"></script>
 	<link rel="stylesheet" type="text/css" 
 	href="http://js.api.here.com/v3/3.0/mapsjs-ui.css" />
-
 </head>
 <body>
 	<div id="mapContainer" style="width: 2125px;height: 1000px"></div>
@@ -23,9 +21,9 @@
 			'app_id': 'Coloque seu app_id para funcionar',
 			'app_code': 'Colocque seu app_code para funcionar'
 		});
-
+	
 		var defaultLayers = platform.createDefaultLayers();
-
+	
 		var map = new H.Map(
 			document.getElementById('mapContainer'),
 			defaultLayers.normal.map,
@@ -33,11 +31,9 @@
 				zoom: 10,
 				center: { lat:  -19.8157, lng: -43.9542 }
 			});
-
+	
 		map.setBaseLayer(defaultLayers.satellite.traffic);
-
 		var ui = H.ui.UI.createDefault(map, defaultLayers,'pt-BR');
-		
 		var mapSettings = ui.getControl('mapsettings');
 	</script>
 </body>
