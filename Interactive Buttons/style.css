@@ -1,0 +1,70 @@
+table{
+	text-align: center;
+	margin-right:auto; 
+	margin-left:auto;
+	margin-top: 200px;
+
+}
+body{
+	background-color: #8c827e;
+}
+h1{
+	color: white;
+	font-family: arial;
+}
+.email{
+	color: white;
+	font-family: arial;
+}
+
+.button{
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover{
+	border: 2px solid #77d1ff;
+	
+}
+.button:active{
+   position:relative;
+   top:1px;
+}
+.btn1{
+	background-color: #4CAF50;
+}
+.btn2{
+	background-color: #008CBA;
+}
+.btn3{
+	background-color: #f44336;
+}
+.btn4{
+	background-color:#e7e7e7;
+	color: black;
+}
+.btn5{
+	background-color:#555555;
+}
+.btn6{
+	background-color:#f48f42;
+}
+.btn7{
+	background-color:#fffb2d;
+	color: black;
+}
+.btn8{
+	background-color:#ff2d8b;
+}
+
+.stop{
+	background-color:#0fff27;
+	color: black;
+}
