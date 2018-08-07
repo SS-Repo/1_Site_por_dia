@@ -1,7 +1,7 @@
 # 30_dias_30sites
 
 Estou fazendo um site por dia inspirado por Jennifer Dewalt,
-complementando meus estudos com Javascript##
+complementando meus estudos com Javascript
 
 link https://jenniferdewalt.com/index.html
 
