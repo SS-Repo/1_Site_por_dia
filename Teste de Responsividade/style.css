@@ -1,0 +1,46 @@
+input{
+		width: 500px;
+		padding: 12px 20px;
+		border:2px solid #a5afad;
+	}
+	button{
+		padding: 12px 20px;
+		background-color: #a5afad;
+		border: 2px solid#a5afad;
+		color: white;
+		font-family: arial;
+	}
+	iframe{
+		width: 320px;
+		height: 480px;
+	}
+	.tela{
+		
+		padding-top: 30px;
+		padding-left: 470px;
+	}
+	.formulario{
+		text-align: center;
+		margin:center;
+	}
+	.ss{
+		padding-top: 0px;
+		padding-left: 0px;
+	}
+	body{
+		background-color: #5f5a60;
+	}
+	.w{
+		color:white;
+		font-family: arial;
+		font-size: 30px;
+	}
+	.i{
+		font-size: 15px;
+		font-family: arial;
+	}
+	.z{
+		color:white;
+		font-family: arial;
+		font-size: 15px;
+	}
