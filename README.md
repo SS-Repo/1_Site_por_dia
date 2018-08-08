@@ -30,4 +30,4 @@ Jquery,
 Ajax,
 Json
 
-Contatos:Sergio.Desenvolvedor.Web@gmail.com
+Email:sergio.desenvolvedor.web@gmail.com
