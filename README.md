@@ -15,6 +15,8 @@ link https://jenniferdewalt.com/index.html
 
 5-Teste de Responsividade - preview(http://sergiotest.rf.gd/testederesponvidade/Index.html)
 
+------------------------------------------------------------------------------------------
+
 -- Sergio Silveira --
 
 Desenvolvedor Web 
@@ -31,3 +33,5 @@ Ajax,
 Json
 
 Email:sergio.desenvolvedor.web@gmail.com
+
+--------------------------------------------------------------------------------------
