@@ -5,15 +5,15 @@ complementando meus estudos com Javascript
 
 link https://jenniferdewalt.com/index.html
 
-1-Relogio
+1-Relogio - preview(http://sergiotest.rf.gd/relogio/Index.html)
 
-2-Meu Primeiro Jogo
+2-Meu Primeiro Jogo - preview(http://sergiotest.rf.gd/meuprimeirojogo/Index.html)
 
 3-Maps Here
 
 4-Interactive Buttons
 
-5-Teste de Responsividade
+5-Teste de Responsividade - preview(http://sergiotest.rf.gd/testederesponvidade/Index.html)
 
 -- Sergio Silveira --
 
