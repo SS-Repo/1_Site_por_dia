@@ -1,4 +1,4 @@
-# 30_dias_30sites
+# Um site por dia
 
 Estou fazendo um site por dia inspirado por Jennifer Dewalt,
 complementando meus estudos com Javascript
