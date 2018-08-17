@@ -1,4 +1,4 @@
-# Um site por dia
+# 1-Site por dia -- durante 5 dias.
 
 Estou fazendo um site por dia inspirado por Jennifer Dewalt,
 complementando meus estudos com Javascript
