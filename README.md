@@ -5,15 +5,15 @@ complementando meus estudos com Javascript
 
 link https://jenniferdewalt.com/index.html
 
-1-Relogio - preview(http://sergiotest.rf.gd/relogio/Index.html)
+1-Relogio
 
-2-Meu Primeiro Jogo - preview(http://sergiotest.rf.gd/meuprimeirojogo/Index.html)
+2-Meu Primeiro Jogo 
 
-3-Maps Here - preview(http://sergiotest.rf.gd/mapshere/Index.html)
+3-Maps Here 
 
-4-Interactive Buttons - preview(http://sergiotest.rf.gd/interactivebuttons/Index.html)
+4-Interactive Buttons 
 
-5-Teste de Responsividade - preview(http://sergiotest.rf.gd/testederesponvidade/Index.html)
+5-Teste de Responsividade 
 
 ------------------------------------------------------------------------------------------
 
@@ -33,7 +33,4 @@ Ajax,
 Json
 
 Email:sergio.desenvolvedor.web@gmail.com
-
-Site:http://sergiosilveira.epizy.com
-
 --------------------------------------------------------------------------------------
